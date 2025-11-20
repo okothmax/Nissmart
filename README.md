@@ -16,7 +16,6 @@ This repo contains the Nissmart micro-savings + payout prototype. It includes a 
 - Dashboards:
   - `/`: user dashboard for creating users, viewing balances, and executing deposits/transfers/withdrawals.
   - `/admin/dashboard`: admin dashboard with KPIs, charts, filters, and a button back to the user view.
-- Env example: `frontend/.env.local` is ignored, use `.env.example` (create manually) referencing `NEXT_PUBLIC_API_BASE_URL`.
 
 ## Docs & Flows
 - Architecture notes: `docs/architecture.md` + `docs/architecture.pdf`.
