@@ -1,0 +1,24 @@
+### General
+.env
+.env.local
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+
+### Backend
+backend/.venv/
+backend/__pycache__/
+
+### Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+### Docs/output
+# docs/architecture.pdf
+# docs/flow_diagrams.pdf
+Nissmart Take-Home Test.pdf
+
+### Video link
+# Video-link/
